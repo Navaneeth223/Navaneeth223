@@ -78,7 +78,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 
 
-
+<!-- 
 
 
 Here are some ideas to get you started:
@@ -92,3 +92,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
+ -->
