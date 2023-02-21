@@ -55,10 +55,12 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
+🏆  70 Karma Points           
 🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
+✅  Completed 6 tasks so far           
+⏳  Longest streak is 5 days
+ 🔭 I’m currently working on a hotal web site
+- 🌱 I’m currently learning API
 <!-- TODO-IST:END -->
 
 
@@ -83,8 +85,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on a hotal web site
+- 🌱 I’m currently learning API
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
