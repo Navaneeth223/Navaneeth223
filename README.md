@@ -4,7 +4,7 @@
 <!-- **Navaneeth223/Navaneeth223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-### hey there 
+
 
 <a href="https://www.linkedin.com/in/navaneeth-kv-270386214/">
   <img align="left" alt="Navaneeth's linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -92,4 +92,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
- -->
