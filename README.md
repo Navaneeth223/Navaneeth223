@@ -61,6 +61,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ⏳  Longest streak is 5 days<br>
 🔭 I’m currently working on a hotal web site <br>
 🌱 I’m currently learning API
+⚡ Fun fact: ...
 
 <!-- TODO-IST:END -->
 
