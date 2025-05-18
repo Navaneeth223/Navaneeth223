@@ -6,18 +6,18 @@
 
 
 
-<a href="https://www.linkedin.com/in/navaneeth-kv-270386214/">
+<!-- <a href="https://www.linkedin.com/in/navaneeth-kv-270386214/">
   <img align="left" alt="Navaneeth's linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a> -->
 <!-- <a href="https://www.facebook.com/navaneeth.navaneeth.182">
   <img align="left" alt="Navaneeth facebook" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/facebook.png" />
 </a> -->
 <a href="https://www.instagram.com/__.navaneeth.__k__v__/">
   <img align="left" alt="Navaneeth  Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://x.com/Navanee70719562">
+<!-- <a href="https://x.com/Navanee70719562">
   <img align="left" alt="Navaneeth | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+</a> -->
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
@@ -71,7 +71,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Navaneeth223&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
   
   
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+<!--![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   -->
+<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 
 
