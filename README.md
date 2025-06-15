@@ -58,7 +58,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 🏆  70 Karma Points           
 🌸  Completed 0 tasks today           
 ✅  Completed 6 tasks so far           
-⏳  Longest streak is 5 days<br>
+⏳  Longest streak is 35 days<br>
 🔭 I’m currently working on a hotal web site <br>
 🌱 I’m currently learning API
 ⚡ Fun fact: ...
