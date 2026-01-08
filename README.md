@@ -1,33 +1,46 @@
-### Hi there 👋 I'm Navaneeth KV
+<h1 align="center">Hi 👋, I'm Navaneeth KV</h1>
 
-<a href="https://www.instagram.com/__.navaneeth.__k__v__/">
-  <img align="left" alt="Navaneeth Instagram" width="22px"
-    src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
+<p align="center">
+  <a href="https://readme-typing-svg.herokuapp.com">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Flutter+App+Developer;Freelance+Software+Engineer;Open+to+Full-Time+%7C+Remote+Roles;Turning+Ideas+Into+Products" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:navaneethkv1002@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/navaneeth-kv-270386214/">LinkedIn</a> •
+  <a href="https://github.com/Navaneeth223">GitHub</a>
+</p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Navaneeth223.Navaneeth223)
 
-<br />
+---
 
-Hi, I'm **Navaneeth**, a passionate **self-taught Full Stack Developer** and **Freelance Software Engineer** from **India 🇮🇳**.  
-I love turning ideas into real products with clean UI, solid architecture, and meaningful user experience.
+### 🚀 About Me
 
-I'm deeply interested in **web development, app development, and game development**, and I strongly believe in learning by building.  
-Open-source has taught me a lot, and I truly enjoy collaboration and knowledge sharing 🚀
+I'm a **self-taught Full Stack Developer** and **Freelance Software Engineer** from **India 🇮🇳** with **3+ years of hands-on experience** building real-world web apps, mobile apps, and interactive projects.
 
-<img align="right" alt="coding gif" width="500"
-  src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
+I focus on:
+- Clean & scalable architecture  
+- Performance-optimized UI  
+- Real-world problem solving  
+- Learning fast & delivering faster  
+
+💼 **Actively looking for full-time / remote / freelance roles**
 
 ---
 
-### 💼 Freelance & Contact
-- 💻 Open to freelance & remote work  
-- 📫 Email me: **[navaneethkv1002@gmail.com](mailto:navaneethkv1002@gmail.com)**
-- 💬 Ask me anything — happy to help!
+### 💼 What I Can Do for You
+
+✅ Build full-stack web applications  
+✅ Create responsive & animated UIs  
+✅ Develop Flutter mobile apps  
+✅ Integrate APIs & databases  
+✅ Convert ideas into production-ready products  
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack
 
 **Frontend**
 <br/>
@@ -57,10 +70,12 @@ Open-source has taught me a lot, and I truly enjoy collaboration and knowledge s
 
 ---
 
-### 🚧 Currently
-- 🔭 Working on a **Hotel Website Project**
-- 🌱 Learning **REST APIs & Backend Architecture**
-- ⚡ Fun fact: I enjoy building things solo — from websites to games 🎮
+### 📌 Current Focus
+
+- 🔭 Building a **Hotel Management Website**
+- 🌱 Learning **REST APIs & Backend Scaling**
+- 🤝 Open to **collaboration & freelance work**
+- ⚡ Fun fact: I love building projects solo from scratch 🚀
 
 ---
 
@@ -70,4 +85,15 @@ Open-source has taught me a lot, and I truly enjoy collaboration and knowledge s
   <img src="https://github-readme-stats.vercel.app/api?username=Navaneeth223&show_icons=true&theme=gotham" />
 </p>
 
-<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Navaneeth223&theme=gotham" />
+</p>
+
+---
+
+### 📫 Let’s Connect
+
+📧 **Email:** navaneethkv1002@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/navaneeth-kv-270386214/  
+
+⭐ If you like my work, consider following — more projects coming soon!
