@@ -1,99 +1,73 @@
-### Hi there 👋
+### Hi there 👋 I'm Navaneeth KV
 
-
-<!-- **Navaneeth223/Navaneeth223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-
-
-
-<!-- <a href="https://www.linkedin.com/in/navaneeth-kv-270386214/">
-  <img align="left" alt="Navaneeth's linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> -->
-<!-- <a href="https://www.facebook.com/navaneeth.navaneeth.182">
-  <img align="left" alt="Navaneeth facebook" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/facebook.png" />
-</a> -->
 <a href="https://www.instagram.com/__.navaneeth.__k__v__/">
-  <img align="left" alt="Navaneeth  Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Navaneeth Instagram" width="22px"
+    src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<!-- <a href="https://x.com/Navanee70719562">
-  <img align="left" alt="Navaneeth | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a> -->
 
-
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=Navaneeth223.Navaneeth223)
 
 <br />
 
-hi, i'm [Navaneeth](https://), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm **Navaneeth**, a passionate **self-taught Full Stack Developer** and **Freelance Software Engineer** from **India 🇮🇳**.  
+I love turning ideas into real products with clean UI, solid architecture, and meaningful user experience.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I'm deeply interested in **web development, app development, and game development**, and I strongly believe in learning by building.  
+Open-source has taught me a lot, and I truly enjoy collaboration and knowledge sharing 🚀
 
+<img align="right" alt="coding gif" width="500"
+  src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 any freelance work? do reach, [email](mailto:navaneethkv1002@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+---
 
-**languages and tools:**  
+### 💼 Freelance & Contact
+- 💻 Open to freelance & remote work  
+- 📫 Email me: **[navaneethkv1002@gmail.com](mailto:navaneethkv1002@gmail.com)**
+- 💬 Ask me anything — happy to help!
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/visual-studio-code/visual-studio-code.png" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+---
 
+### 🛠️ Languages & Tools
 
+**Frontend**
+<br/>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/topics/react/react.png"></code>
 
+**Backend & Database**
+<br/>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/topics/django/django.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/topics/postgresql/postgresql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/topics/firebase/firebase.png"></code>
 
+**Mobile & Game Dev**
+<br/>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/topics/unity/unity.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/topics/csharp/csharp.png"></code>
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  70 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 6 tasks so far           
-⏳  Longest streak is 35 days<br>
-🔭 I’m currently working on a hotal web site <br>
-🌱 I’m currently learning API
-⚡ Fun fact: ...
+**Tools**
+<br/>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/topics/visual-studio-code/visual-studio-code.png"></code>
 
-<!-- TODO-IST:END -->
+---
 
+### 🚧 Currently
+- 🔭 Working on a **Hotel Website Project**
+- 🌱 Learning **REST APIs & Backend Architecture**
+- ⚡ Fun fact: I enjoy building things solo — from websites to games 🎮
 
-📈 my github stats
+---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Navaneeth223&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-  
-  
-<!--![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   -->
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Navaneeth223&show_icons=true&theme=gotham" />
+</p>
+
 <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
-
-
-
-
-
-<hr>
-
-
-
-
-<!-- 
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a hotal web site
-- 🌱 I’m currently learning API
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
