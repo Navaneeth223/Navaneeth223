@@ -1,80 +1,117 @@
 <h1 align="center">Hi 👋, I'm Navaneeth KV</h1>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Flutter+App+Developer;Freelance+Software+Engineer;Open+to+Full-Time+%7C+Remote+Roles;Turning+Ideas+Into+Real+Products" 
-    alt="Typing SVG" 
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=680&lines=Full+Stack+Developer;Flutter+App+Developer;Freelance+Software+Engineer;Turning+Ideas+Into+Products"
+    alt="Typing animation"
   />
 </p>
 
 <p align="center">
   <a href="mailto:navaneethkv1002@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/navaneeth-kv-270386214/">LinkedIn</a> •
-  <a href="https://github.com/Navaneeth223">GitHub</a>
+  <a href="https://www.linkedin.com/in/navaneeth-kv-270386214/">💼 LinkedIn</a> •
+  <a href="https://github.com/Navaneeth223">🐙 GitHub</a>
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+I’m a **self-taught Full Stack Web Developer** and **Freelance Software Engineer** from **India 🇮🇳**.
+
+I enjoy building **real-world web and mobile applications**, focusing on:
+- Clean architecture
+- Smooth user experience
+- Maintainable, scalable code
+
+I’ve learned a lot through **open-source**, personal projects, and hands-on development.
+
+💼 **Open to Full-Time / Remote / Freelance roles**
+
+---
+
+## 🚀 What I Do
+
+- 🌐 Build responsive, modern web applications  
+- 📱 Develop Flutter mobile apps  
+- 🔌 Design and integrate REST APIs  
+- 🗄️ Work with SQL & NoSQL databases  
+- 🎮 Experiment with Unity & C# game projects  
+
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Navaneeth223.Navaneeth223" />
-</p>
-
----
-
-## 🚀 About Me
-
-I'm a **self-taught Full Stack Developer** and **Freelance Software Engineer** from **India 🇮🇳** with **3+ years of hands-on experience** building real-world web applications, mobile apps, and interactive projects.
-
-I focus on:
-- Clean, scalable architecture  
-- Performance-optimized UI  
-- Real-world problem solving  
-- Learning fast & delivering value  
-
-💼 **Actively looking for full-time / remote / freelance roles**
-
----
-
-## 💼 What I Can Do
-
-✔ Full-stack web development  
-✔ Responsive & animated UI  
-✔ Flutter mobile applications  
-✔ API integration & databases  
-✔ Turning ideas into production-ready products  
-
----
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,django,mysql,postgres,firebase,flutter,unity,cs,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nodejs,django,python,mysql,postgres,firebase,flutter,unity,cs,git,vscode&perline=7" />
 </p>
 
 ---
 
 ## 📌 Currently
 
-- 🔭 Working on a **Hotel Management Website**
-- 🌱 Learning **REST APIs & Backend Architecture**
-- 🤝 Open to **freelance & collaboration**
-- ⚡ Fun fact: I enjoy building projects solo from scratch 🚀
+- 🔭 Working on a **Hotel Management Web Application**
+- 🌱 Learning **API design & backend architecture**
+- 🤝 Open to collaboration & freelance work
 
 ---
 
-## 📈 GitHub Stats
+
+
+---
+
+## 💎 Project Spotlight
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🏨 Hotel Management Pro</h3>
+      <p>An enterprise-grade booking engine with real-time analytics, automated billing, and a seamless Flutter-based mobile experience.</p>
+      <p><b>Status:</b> In Development 🚀</p>
+    </td>
+    <td width="50%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueWp4N3Z4amZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" style="border-radius:10px;" />
+    </td>
+  </tr>
+</table>
+
+---
+
+
+## ⭐ Highlights 
+
+- 🧠 3+ years of hands-on development experience  
+- 🏗️ Built full-stack web & mobile projects  
+- 🔌 Strong REST API & database experience  
+- 🚀 Comfortable taking projects from idea → deployment  
+
+---
+
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Navaneeth223&show_icons=true&theme=gotham" />
-</p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Navaneeth223&theme=github-compact" />
+
+
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Navaneeth223&theme=gotham" />
 </p>
 
+
+</p>
+
 ---
 
-## 📫 Let’s Connect
 
-📧 **Email:** navaneethkv1002@gmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/navaneeth-kv-270386214/  
 
-⭐ If you like my work, consider following — more projects coming soon!
+## 📫 Contact
+
+- **Email:** navaneethkv1002@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/navaneeth-kv-270386214/
+
+<p align="center">
+  <i>“Build it clean. Build it useful.”</i>
+</p>
