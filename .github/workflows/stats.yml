@@ -1,0 +1,44 @@
+name: Daily Stats Update
+
+on:
+  schedule:
+    - cron: '30 11 * * *'   # 3:30PM Oman (UTC+4) daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Compute stats
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          curl -s -H "Authorization: Bearer $GH_TOKEN" \
+            "https://api.github.com/users/Navaneeth223/repos?per_page=100" \
+            > /tmp/repos.json
+          python - <<'PY'
+          import json,re
+          repos=json.load(open('/tmp/repos.json'))
+          total_repos=len(repos)
+          total_stars=sum(r.get('stargazers_count',0) for r in repos)
+          total_forks=sum(r.get('forks_count',0) for r in repos)
+          readme=open('README.md',encoding='utf-8').read()
+          stats=(f"<!-- STATS:START -->\n"
+                 f"**Repos:** {total_repos}  ·  **Stars:** {total_stars}  ·  **Forks:** {total_forks}\n\n"
+                 f"_Updated automatically {__import__('datetime').date.today()} by GitHub Actions._\n"
+                 f"<!-- STATS:END -->")
+          readme=re.sub(r'<!-- STATS:START -->.*?<!-- STATS:END -->', stats, readme, flags=re.S)
+          open('README.md','w',encoding='utf-8').write(readme)
+          print("repos",total_repos,"stars",total_stars)
+          PY
+      - name: Commit
+        run: |
+          git config user.email "bot@navi.dev"; git config user.name "Navi Stats Bot"
+          git add README.md
+          git commit -m "chore: auto-update stats" || echo "no change"
+          git push
