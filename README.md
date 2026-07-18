@@ -23,7 +23,9 @@ I code daily with **Claude Code, Cursor, Gemini CLI, and Copilot** — fast, tes
 
 ## 📊 Live Stats
 <!-- STATS:START -->
-_Updating daily via GitHub Actions…_
+**Repos:** 100  ·  **Stars:** 13  ·  **Forks:** 3
+
+_Updated automatically 2026-07-18 by GitHub Actions._
 <!-- STATS:END -->
 
 ## 🌍 Available for remote work worldwide
