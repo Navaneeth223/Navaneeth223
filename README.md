@@ -1,5 +1,7 @@
-<<<<<<< HEAD
-# Hi, I'm Navaneeth KV 👋 (aka Navi)
+
+<div align="center">
+
+# 👋 Hi, I'm Navaneeth KV — call me **Navi**
 
 🚀 **Remote Full-Stack / MERN Developer** — 4+ years, 200+ repositories, shipping real products.
 
@@ -7,44 +9,6 @@
 [![Email](https://img.shields.io/badge/Email-navaneethkv1002@gmail.com-EA4335?style=for-the-badge)](mailto:navaneethkv1002@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-200%2B%20day%20streak-FFA116?style=for-the-badge)](https://leetcode.com/naveethnavi1)
 
-## 🛠 Stack
-`React` · `Next.js` · `Node.js` · `Express` · `MongoDB` · `TypeScript` · `Three.js / R3F` · `GSAP` · `Tailwind` · `Django` · `PostgreSQL` · `Docker`
-
-## 🌟 Featured Products (all live)
-- **[Job Portal](https://jobportal-candidate.vercel.app/)** — candidate job board + ATS-lite
-- **[MindVault](https://mindvault-pearl.vercel.app/)** — AI second-brain (RAG + semantic search)
-- **[PDFforge](https://pd-fforge.vercel.app/)** — browser PDF toolkit
-- **[OmniCut](https://omnicut-web.vercel.app/)** — browser video cutter
-- **[3D Room](https://3d-room-zeta.vercel.app/)** — Three.js room designer
-- **[Game Portfolio](https://game-portfolio-pi-six.vercel.app/)** — playable 3D CV
-
-## 🤖 AI-Native Workflow
-I code daily with **Claude Code, Cursor, Gemini CLI, and Copilot** — fast, tested, production-grade.
-
-## 📊 Live Stats
-<!-- STATS:START -->
-**Repos:** 100  ·  **Stars:** 12  ·  **Forks:** 3
-
-_Updated automatically 2026-07-28 by GitHub Actions._
-<!-- STATS:END -->
-
-## 🌍 Available for remote work worldwide
-Based in Muscat, Oman · From Kerala, India · Remote-only, async.
-
----
-⚡ Powered by an autonomous AI agent (Hermes) that handles my job-hunt outreach.
-=======
-<!--
-NOTE FOR NAVI: Save this as README.md in a NEW repo named exactly `Navaneeth223`
-(YourUsername/YourUsername) — GitHub auto-renders it as your profile README.
-Replace <username> handles/links with your real ones before publishing.
--->
-
-<div align="center">
-
-# 👋 Hi, I'm Navaneeth KV — call me **Navi**
-
-**Remote MERN / Full-Stack & AI Developer** · Building AI-assisted products at the speed of thought
 
 [![GitHub followers](https://img.shields.io/github/followers/Navaneeth223?label=Follow&style=social)](https://github.com/Navaneeth223)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-portfolio--v2--rho--beryl.vercel.app-8b5cf6?style=flat-square)](https://portfolio-v2-rho-beryl.vercel.app)
@@ -109,4 +73,4 @@ I share what I learn about **AI-assisted development, MERN architecture, and shi
 **Open to remote MERN / Full-Stack / AI-engineering roles & freelance collaborations.** Let's build something.
 
 </div>
->>>>>>> c18bf971ca593c395232f2352a6c6ee7dce1d1b7
+
