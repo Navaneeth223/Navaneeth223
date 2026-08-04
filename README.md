@@ -5,7 +5,7 @@
 
 🚀 **Remote Full-Stack / MERN Developer** — 4+ years, 200+ repositories, shipping real products.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-22d3ee?style=for-the-badge)](https://navaneeth223.github.io/navaneeth-portfolio-v3-pages/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-22d3ee?style=for-the-badge)](https://new-portfolio-alpha-eight-79.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-navaneethkv1002@gmail.com-EA4335?style=for-the-badge)](mailto:navaneethkv1002@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-200%2B%20day%20streak-FFA116?style=for-the-badge)](https://leetcode.com/naveethnavi1)
 
