@@ -11,7 +11,7 @@
 
 
 [![GitHub followers](https://img.shields.io/github/followers/Navaneeth223?label=Follow&style=social)](https://github.com/Navaneeth223)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-portfolio--v2--rho--beryl.vercel.app-8b5cf6?style=flat-square)](https://portfolio-v2-rho-beryl.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-portfolionew--two--omega.vercel.app-8b5cf6?style=flat-square)](https://portfolionew-two-omega.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square)](https://linkedin.com/in/navaneeth-kv-270386214)
 
 </div>
